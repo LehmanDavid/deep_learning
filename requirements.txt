@@ -4,3 +4,7 @@ seaborn
 torch
 torchvision
 tqdm
+IPython
+torchaudio
+librosa
+editdistance
